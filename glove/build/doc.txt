@@ -1,0 +1,11 @@
+TRAINING MODEL
+Read 161252 lines.
+Initializing parameters...done.
+vector size: 50
+vocab size: 3259
+x_max: 100.000000
+alpha: 0.750000
+cr.val is zero
+iter: 001, cost: 0.024605
+cr.val is zero
+Exiting because of nan
